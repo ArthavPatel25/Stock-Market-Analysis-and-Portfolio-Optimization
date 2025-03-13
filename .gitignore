@@ -1,0 +1,36 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Database session and dump files
+*.session
+*.db
+*.sql
+*.pgsql
+
+# Log files
+*.log
+
+# Python build files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Pytest cache
+.pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db

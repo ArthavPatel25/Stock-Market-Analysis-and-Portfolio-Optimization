@@ -79,3 +79,4 @@ plt.scatter(expected_volatility, expected_return, c="red", marker="*", s=200, la
 plt.legend()
 plt.grid()
 plt.show()
+plt.show(block=True)

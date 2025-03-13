@@ -1,0 +1,5 @@
+🔗 Stock Market Analysis & Portfolio Optimization Dashboard
+
+View the interactive Tableau dashboard here:
+
+https://public.tableau.com/app/profile/arthav.patel/viz/StockMarketAnalysisPortfolioOptimizationDashboard/Sheet1

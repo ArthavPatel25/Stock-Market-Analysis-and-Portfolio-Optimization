@@ -12,7 +12,7 @@ Features:
 
 Installation Steps:
 1. Clone the repository:
-   git clone https://github.com/ArthavPatel25/stock-market-portfolio-optimization.git
+   git clone [https://github.com/ArthavPatel25/stock-market-portfolio-optimization.git](https://github.com/ArthavPatel25/Stock-Market-Analysis-and-Portfolio-Optimization)
    cd stock-market-portfolio-optimization
 
 2. Create and activate a virtual environment (optional but recommended):
